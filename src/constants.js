@@ -1,5 +1,5 @@
 export default {
-    MOBILE_MENU_ITEMS: [
+    FEATURES: [
         "Microsoft 365",
         "Office",
         "Windows",
